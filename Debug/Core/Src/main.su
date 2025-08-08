@@ -1,0 +1,17 @@
+../Core/Src/main.c:124:7:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:170:8:Calculate_Altitude	16	static
+../Core/Src/main.c:174:8:Calculate_Pitch	24	static
+../Core/Src/main.c:179:7:floatToBigEndian	24	static
+../Core/Src/main.c:185:8:bigEndianToFloat	24	static
+../Core/Src/main.c:197:7:transmit_SIT_packet	48	static
+../Core/Src/main.c:230:5:main	216	static
+../Core/Src/main.c:413:6:SystemClock_Config	88	static
+../Core/Src/main.c:463:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:497:13:MX_I2C2_Init	8	static
+../Core/Src/main.c:531:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:569:13:MX_UART4_Init	8	static
+../Core/Src/main.c:602:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:635:13:MX_USART6_UART_Init	8	static
+../Core/Src/main.c:668:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:730:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:748:6:Error_Handler	4	static,ignoring_inline_asm
